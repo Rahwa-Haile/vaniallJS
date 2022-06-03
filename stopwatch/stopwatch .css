@@ -1,0 +1,25 @@
+body{
+    background-color: red;
+}
+
+#seconds{
+    font-size:100px;
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+}
+
+button{
+    background-color:rgb(66,133,244);
+    color: white;
+    border: none;
+    border-radius: 8px;
+    height: 40px;
+    width: 100px;
+    transform: translate(480px, 50px)
+}
+button:hover{
+    background-color: white;
+    border-color: rgb(66,133,244);
+    color: rgb(66,133,244);
+}
